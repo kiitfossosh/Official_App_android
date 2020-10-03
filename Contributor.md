@@ -7,6 +7,7 @@ This is a repo created to remember the Hacktober Fest 2020 presented by  Digital
 ### Please Enter your details and be part of the HacktoberFest2020
 
 - [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
+- [Ayan Chakraborty](https://github.com/ac-ayan) | [Kalinga Institute of Industrial Technology](https://kiit.ac.in/)
 
 _Please follow the github Markdown format strictly else PR request might get neglected._
 _Change the demo details and enter your details there, make sure to leave a demo markdown code there for other as it was before._
